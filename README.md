@@ -1,1 +1,1 @@
-an Interactive way to domenstrate European language families. with feature to exclude and include different families on the map or make exceptions and zoom in or out
+Bunch of cool interactive maps and tables that I looked for on the internet and couldn't find. So I just made them 
